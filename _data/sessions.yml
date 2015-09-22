@@ -41,7 +41,7 @@
   title: "Go and App Engine"
   description: "This is a placeholder for a short description of the session - COMING SOON!"
   subtype: codelab
-  speakers: [6]
+  speakers: [6, 9]
   complexity: "Intermediate"
 
 -
@@ -49,7 +49,7 @@
   title: "Javascript   "
   description: "We will cover the basics of JavaScript"
   subtype: codelab
-  speakers: [9]
+  speakers: [8, 12, 15, 1]
   complexity: "Beginner"
 
 -

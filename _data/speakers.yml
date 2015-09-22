@@ -95,18 +95,17 @@
   social:
     - {name: "twitter", link: "https://twitter.com/levelupclub"}
 
-#-
-#  id: 9
-#  name: "Joshwin"
-#  surname: "Greene"
-#  company: "ScholarDev App Development"
-#  title: "Founder"
-#  bio: "General Project Manager at ScholarDev - Studying Software Engineer at University of California, Irvine
-# Fresno City College"
-#  thumbnailUrl: JoshuaGreene.jpg
-#  rockstar: true
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+JoshwinGreene"}
+-
+  id: 9
+  name: Daniel"
+  surname: "Hoffmann"
+  company: "Computer Science Student"
+  title: "Student"
+  bio: "Daniel Hoffmann is a senior student at Fresno State University. He has been studying programming since he was 13, and has recently been interested in Web technologies. His personal studies of programming have a focus on real-time systems and multi-processing."
+  thumbnailUrl: danielh.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/Oralordos"}
 #-
 #  id: 10
 #  name: "Rio"
