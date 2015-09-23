@@ -118,13 +118,13 @@
 #  language: Java
 #  complexity: "Beginner"
 #-
-#  id: 002
-#  title: "AngularJS FTW"
-#  description: "AngularJS FTW! In a connected world, our greatest challenge in software development is cross-platform support. Discover Google's super-heroic JavaScript framework and how it can empower you to code your apps once, and deploy anywhere! AngularJS is suitable for super-fast prototyping of the smallest of projects, but excels in all the heavy-lifting and complex demands of a scalable, distributed and mission-critical enterprise application."
-#  subtype: presentation
-#  speakers: [5]
-#  language:
-#  complexity: "Intermediate"
+  id: 002
+  title: "ES2015 with Google Angular"
+  description: "Learn how to leverage the new features of ES6 including classes, inheritance, arrow functions, symbols, and more in your Angular JS applications. We'll discuss build tools, package bundlers, ES6 to ES5 transpilers and preparing for the upcoming release of Angular 2. After this talk you will be more prepared for using tomorrow's technology when building applications today!"
+  subtype: presentation
+  speakers: [5]
+  language:
+  complexity: "Advanced"
 #-
 #  id: 003
 #  title: "MIT App Inventor Part 1"

@@ -41,9 +41,9 @@
   id: 5
   name: "Aaron"
   surname: "Roberson"
-  company: "OnFarm Systems"
-  title: "Software Engineer"
-  bio: "Aaron Roberson is a JavaScript and AngularJS enthusiast with over 12 years of experience as a software engineer. He’s held contracts with the U.S. Fish & Wildlife Service as well as Esri, a global GIS software provider. Currently, Aaron is a Senior Software Developer at OnFarm Systems. He’s also a former instructor at the Institute of Technology and is now teaching at the Geekwise Academy."
+  company: "Game Sports Networks"
+  title: "Lead Full Stack Engineer"
+  bio: "Aaron Roberson is a JavaScript and AngularJS enthusiast with over 13 years of experience as a software engineer. He’s held contracts with the U.S. Fish & Wildlife Service, U.S. Dept. of Veterans Affairs as well as Esri, a global GIS software provider. He’s also a Node and Angular mentor at Thinkful.com, a periodic JavaScript instructor at Geekwise Academy and is a former instructor at the Institute of Technology. Currently, Aaron is the Lead Full Stack Engineer for Game Sports Network, a fantasy sports gaming platform."
   thumbnailUrl: aaronroberson.jpg
   rockstar: true
   social:
