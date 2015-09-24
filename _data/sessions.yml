@@ -18,7 +18,7 @@
   title: "HTML/CSS"
   description: "We will cover the basics of HTML/CSS"
   subtype: codelab
-  speakers: [8, 12, 15, 16]
+  speakers: [8]
   complexity: "Beginner"
 
 -
@@ -49,7 +49,7 @@
   title: "Javascript   "
   description: "We will cover the basics of JavaScript"
   subtype: codelab
-  speakers: [8, 12, 15, 1]
+  speakers: [8]
   complexity: "Beginner"
 
 -
@@ -93,6 +93,12 @@
   subtype: Talk
   speakers: [2]
   complexity: "Advanced"
+-
+  id: 015
+  title: "Closing"
+  description: "Last Words"
+  subtype: Talk
+  speakers: []
 
 #-
 #  id: 102
