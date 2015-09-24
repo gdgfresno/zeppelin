@@ -103,7 +103,7 @@
   title: "Student"
   bio: "Daniel Hoffmann is a senior student at Fresno State University. He has been studying programming since he was 13, and has recently been interested in Web technologies. His personal studies of programming have a focus on real-time systems and multi-processing."
   thumbnailUrl: danielh.png
-  rockstar: true
+  rockstar:
   social:
     - {name: "github", link: "https://github.com/Oralordos"}
 #-
@@ -136,7 +136,7 @@
   title: "Software Engineer"
   bio: "Organizer from GDG Fresno. Received a Masters in Computer Science from California State University of Fresno."
   thumbnailUrl: jamescha.jpg
-  rockstar: true
+  rockstar:
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JamesCha"}
 -
@@ -147,9 +147,22 @@
   title: "Software Engineer/GDG Visalia Organizer"
   bio: "Organizer for GDG Visalia, and is Awesome!"
   thumbnailUrl: AhsenBaig.jpg
-  rockstar: true
+  rockstar:
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AhsenBaig"}
+
+-
+  id: 14
+  name: "Sandeep"
+  surname: "Dinesh"
+  company: "Gooogle"
+  title: "Cloud Developer Advocate"
+  bio: "Sandeep started coding and creating websites when he was 12 and hasn't stopped. He is passionate about building easy-to-use products people love. Before Google, he founded an IoT startup in agriculture and developed educational HTML5 games. At Google, Sandeep's goal is to make cloud easy and help developers create the next big thing. Sandeep loves video games, making music, and martial arts, and has Bachelors in Marketing and Computer Science."
+  thumbnailUrl: sandeep.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/106298452631478443711/posts"}
+
 #-
 #  id: 14
 #  name: "Mica"
@@ -169,7 +182,7 @@
   title: "Computer Science Student"
   bio: "Bianca Toledo is an 18-year-old Computer Science major at Fresno City and Clovis Community College. Aside from years of practice in graphic design, she also has years of experience in HTML5 and CSS3 and is currently expanding her knowledge of web development at Geekwise Academy. Other languages she is currently learning are Java and C++ programming."
   thumbnailUrl: Bianca.png
-  rockstar: true
+  rockstar:
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
 -
@@ -180,7 +193,7 @@
   title: "Computer Science Student"
   bio: "Karl is currently in his first year at Fresno City College studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His background in HTML5 & CSS3 started in high school, studying at the start of the first Geekwise Academy Program. "
   thumbnailUrl: KarlRummler.jpg
-  rockstar: true
+  rockstar:
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MicaSimonian"}
 #-
