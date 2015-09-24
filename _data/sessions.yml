@@ -63,9 +63,11 @@
 -
   id: 011
   title: "Google Cloud Spin"
-  description: "More to Come"
+  description: "Sandeep will walk through features of the Google Cloud Platform used in building the Google Cloud Spin demo shown at recent #GCPNext events. The demo uses an orchestrated set of smartphones to capture multi-angle views of the same event, upload them to the cloud and have them stitched together in real time to create a  single 180-degree snapshot of that moment.
+
+                Demo: They will have a live demo setup that folks can stop by and participate in."
   subtype: Tak
-  speakers: []
+  speakers: [1]
   complexity: "Advanced"
 
 -
