@@ -70,15 +70,15 @@
 
 -
   id: 012
-  title: "Cloud"
-  description: "More to Come"
+  title: "Office Hours - Cloud"
+  description: "Come chat with GDE's and Googlers about Google Cloud technologies!"
   subtype: Talk
   speakers: []
   complexity: "Advanced"
 -
   id: 013
-  title: "Webdev Android Cloud"
-  description: "More to Come"
+  title: "Office Hours - Webdev Android Cloud"
+  description: "Come chat with GDE's and Googlers about Cloud, Webdev, Android, Firebase technologies!"
   subtype: Talk
   speakers: []
   complexity: "Advanced"
