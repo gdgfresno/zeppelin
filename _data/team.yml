@@ -9,7 +9,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "https://google.com/+JamesCha"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "github", link: "https://github.com/jamescha"}
 -
   id: 1
   name: "Rio"
@@ -22,7 +22,6 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+RioWaller"}
     - {name: "twitter", link: "https://twitter.com/riowaller"}
-
 - 
   id: 2
   name: "Justine"
@@ -60,7 +59,6 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+AhsenBaig"}
-
 -
   id: 8
   name: "Jim"
@@ -83,19 +81,6 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/116552287288266856649"}
-
-- 
-  id: 6
-  name: "Kristen"
-  surname: "Foster"
-  title: "Writer/Social Media"
-  thumbnailUrl: KFoster.jpg
-  subTeam: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+AhsenBaig"}
-
 - 
   id: 7
   name: "Victoria"
