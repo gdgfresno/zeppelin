@@ -74,17 +74,17 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AaronRoberson"}
-#- 
-#  id: 7
-#  name: "Csaba"
-#  surname: "Toth"
-#  company: "Csaba Technology Services LLC"
-#  title: "Software developer"
-#  bio: "Csaba Toth is a software engineer and technology user group activist, who presented on various topics including cloud technologies, Hadoop and it's eco-system in the past. He has a CAD software developer C++ background and is at home in the Java and C# platforms too. He holds a masters degree in Computer Science. He co-founded the Nashville Java User Group and co-organized the Nashville .NET User Group. These days he grows the Central California Java User Group, helps the Fresno GDG, and co-organizes the Central California .NET User Group."
-#  thumbnailUrl: csabatoth.jpg
-#  rockstar: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/115175024059616103143"}
+- 
+  id: 10
+  name: "Csaba"
+  surname: "Toth"
+  company: "Csaba Technology Services LLC"
+  title: "Software developer"
+  bio: "Csaba Toth is a software engineer and technology user group activist, who presented on various topics including cloud technologies, Hadoop and it's eco-system in the past. He has a CAD software developer C++ background and is at home in the Java and C# platforms too. He holds a masters degree in Computer Science. He co-founded the Nashville Java User Group and co-organized the Nashville .NET User Group. These days he grows the Central California Java User Group, helps the Fresno GDG, and co-organizes the Central California .NET User Group."
+  thumbnailUrl: csabatoth.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/115175024059616103143"}
 -
   id: 7
   name: "James"
@@ -117,9 +117,20 @@
   title: "Student"
   bio: "Daniel Hoffmann is a senior student at Fresno State University. He has been studying programming since he was 13, and has recently been interested in Web technologies. His personal studies of programming have a focus on real-time systems and multi-processing."
   thumbnailUrl: danielh.png
-  rockstar:
+  rockstar: 
   social:
     - {name: "github", link: "https://github.com/Oralordos"}
+
+-
+  id: 11
+  name: "Mayra"
+  surname: "Miranda"
+  company: "Level Up Club"
+  title: "Volunteer of Awesomeness"
+  bio: "Mayra has several years of experience in public service and is currently working as a Health Educator.She graduated from California State University, Fresno with a Bachelor of Arts in Women's Studies. In her spare time, Mayra can be found at a concert or learning how to code. Mayra is firm believer that anyone can have a positive impact in their community. "
+  thumbnailUrl: mayra.JPG
+  rockstar: true
+
 #-
 #  id: 10
 #  name: "Rio"
