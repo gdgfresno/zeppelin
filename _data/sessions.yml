@@ -32,6 +32,20 @@
   subtype: presentation
 
 -
+  id: 204
+  title: "From Hadoop to BigQuery"
+  description: "In this session we search for the holy grail of near real-time queries and analytics over big data. We start from Hadoop and related technologies and arrive in the end at Google BigQuery, which fulfills our criteria. SQL flavor queries over big data have never been so easy! We'll also touch Google Genomics a bit."
+  subtype: presentation
+  speakers: [10]
+
+-
+  id: 205
+  title: "Polymer"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+
+-
   id: 001
   title: "HTML/CSS"
   description: "We will cover the basics of HTML/CSS"
@@ -64,7 +78,7 @@
 
 -
   id: 009
-  title: "Javascript   "
+  title: "Javascript"
   description: "We will cover the basics of JavaScript"
   subtype: codelab
   speakers: [8]
@@ -105,11 +119,7 @@
 -
   id: 014
   title: "Hacking IoT Stuff"
-  description: "Everyone seems to be talking about the Internet of Things. From houseplants to ice machines, from fitness bracelets to fish tanks: It's all fair game.
-
-                                Hacking around with IoT stuff is a lot of fun, but the learning curve can be intimidating, and early validation of your idea is critical. You need to be confident that your plan is going to work before you print 1000 circuit boards.
-
-                                In this talk Jenny Tong, a Developer Advocate on Google Cloud Platform, will show you how node.js, Firebase, and development boards come together to make your IoT project real. We'll build the hello world of electronics on stage, and then divert our attention to a worthy target: connecting children's tabletop games to the Internet."
+  description: "Everyone seems to be talking about the Internet of Things. From houseplants to ice machines, from fitness bracelets to fish tanks: It's all fair game. Hacking around with IoT stuff is a lot of fun, but the learning curve can be intimidating, and early validation of your idea is critical. You need to be confident that your plan is going to work before you print 1000 circuit boards. In this talk Jenny Tong, a Developer Advocate on Google Cloud Platform, will show you how node.js, Firebase, and development boards come together to make your IoT project real. We'll build the hello world of electronics on stage, and then divert our attention to a worthy target: connecting children's tabletop games to the Internet."
   subtype: Talk
   speakers: [2]
   complexity: "Advanced"
