@@ -239,6 +239,30 @@
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+VictoriaSolomon"}
+
+-
+  id: 20
+  name: "Martin"
+  surname: "Omander"
+  company: "Google"
+  title: "Program Manager for Google Developer Relations."
+  bio: "Alignment: Lawful Good"
+  thumbnailUrl: martin.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MartinOmander"}
+
+-
+  id: 21
+  name: "Elizabeth"
+  surname: "Padilla"
+  company: "Google"
+  title: "Program Manager for Google Developer Relations"
+  bio: "Chaotic Neutral"
+  thumbnailUrl: liz.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ElizabethPadillaLiz"}
 #-
 #  id: 20
 #  name: "Adam"
