@@ -6,7 +6,6 @@
   speakers:
   language: 
   complexity:
-
 -
   id: 200
   title: "Doors Open"
@@ -21,7 +20,6 @@
   id: 500
   title: "How Google can help your career in Tech"
   description: ""
-  speakers: 
   subtype: presentation
 -
   id: 001
