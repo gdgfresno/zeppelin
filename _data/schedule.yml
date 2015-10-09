@@ -3,7 +3,7 @@
   dateReadable: "October 17"
   tracks: 
     - {title: "Beginner", color: "#90be4e"}
-    - {title: "Intermediate", color: "#03a9f4"}
+    - {title: "Interm", color: "#03a9f4"}
     - {title: "Advanced", color: "#ffcc00"}
     - {title: "Talks", color: "#ff3300"}
     - {title: "Office Hours", color: "#90be4e"}
@@ -28,7 +28,7 @@
     - {
         startTime: "11:00",
         endTime: "11:50",
-        sessionIds: [001, 007, 010, 100, 012]
+        sessionIds: [001, 007, 010, 100, 012, 203]
     }
     - {
         startTime: "12:00",
@@ -39,12 +39,12 @@
     - {
         startTime: "1:00",
         endTime: "1:50",
-        sessionIds: [009, 008, 002, 011, 013]
+        sessionIds: [009, 008, 002, 011, 013, 203]
     }
     - {
         startTime: "2:00",
         endTime: "2:50",
-        sessionIds: [009, 008, 002, 014, 013]
+        sessionIds: [009, 008, 002, 014, 013, 203]
     }
     - {
         startTime: "3:00",
