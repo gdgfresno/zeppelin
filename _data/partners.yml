@@ -6,6 +6,7 @@
     - {name: "Fresno City College", description: "California's Premier Community College", link: "http://fresnocitycollege.edu", imageUrl: "fcc.jpg"}
     - {name: "Fresno City College - Student Government", description: "ASG - Associated Student Government @ FCC", link: "http://www.fresnocitycollege.edu/index.aspx?page=361", imageUrl: "asgfcc.jpg"}
     - {name: "Bixly - A Python & Django Development Powerhouse", description: "Bixly completes python programming projects and hires skilled django developers to help you", link: "http://www.bixly.com", imageUrl: "bixly-logo.png"}
+    - {name: "Oportun", description: "Empowers underserved Hispanic individuals with limited or no credit history by offering credit-building loans at responsible and affordable rates.", link: "http://www.oportun.com", imageUrl: "oportun.jpg"}
 -
   group: "With support of"
   elements: 
