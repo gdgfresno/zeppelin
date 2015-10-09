@@ -22,6 +22,7 @@
   id: 202
   title: "How Google can help your career in Tech"
   description: "Walkthrough of Google resources for developers, like GDGs, GDEs, Udacity, and Launchpad."
+  speakers:: [20, 21]
   subtype: presentation
 
 -
