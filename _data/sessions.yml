@@ -6,44 +6,12 @@
   speakers:
   language: 
   complexity:
+
 -
   id: 200
   title: "Doors Open"
   description: ""
   subtype: keynote
-
--
-  id: 201
-  title: "Intro"
-  description: ""
-  subtype: keynote
-
--
-  id: 202
-  title: "How Google can help your career in Tech"
-  description: "Walkthrough of Google resources for developers, like GDGs, GDEs, Udacity, and Launchpad."
-  subtype: presentation
-  speakers: [20, 21]
-
--
-  id: 203
-  title: ""
-  description: ""
-  subtype: presentation
-
--
-  id: 204
-  title: "From Hadoop to BigQuery"
-  description: "In this session we search for the holy grail of near real-time queries and analytics over big data. We start from Hadoop and related technologies and arrive in the end at Google BigQuery, which fulfills our criteria. SQL flavor queries over big data have never been so easy! We'll also touch Google Genomics a bit."
-  subtype: presentation
-  speakers: [10]
-
--
-  id: 205
-  title: "Polymer"
-  description: ""
-  subtype: presentation
-  speakers: [3]
 
 -
   id: 001
@@ -71,14 +39,14 @@
 -
   id: 008
   title: "Go and App Engine"
-  description: "This is a placeholder for a short description of the session - COMING SOON!"
+  description: "We will be covering a quick runthrough of Go, with a focus on the parts of it that differ from more traditional languages. Goroutines and channels will make an appearance. After the quick Go, we will be going into Google App Engine, with a focus on getting a web page to display, and the datastore for storing data. If there is time afterwards, we will cover user accounts using the Google users service."
   subtype: codelab
   speakers: [6, 9]
   complexity: "Intermediate"
 
 -
   id: 009
-  title: "Javascript"
+  title: "Javascript   "
   description: "We will cover the basics of JavaScript"
   subtype: codelab
   speakers: [8]
@@ -119,7 +87,11 @@
 -
   id: 014
   title: "Hacking IoT Stuff"
-  description: "Everyone seems to be talking about the Internet of Things. From houseplants to ice machines, from fitness bracelets to fish tanks: It's all fair game. Hacking around with IoT stuff is a lot of fun, but the learning curve can be intimidating, and early validation of your idea is critical. You need to be confident that your plan is going to work before you print 1000 circuit boards. In this talk Jenny Tong, a Developer Advocate on Google Cloud Platform, will show you how node.js, Firebase, and development boards come together to make your IoT project real. We'll build the hello world of electronics on stage, and then divert our attention to a worthy target: connecting children's tabletop games to the Internet."
+  description: "Everyone seems to be talking about the Internet of Things. From houseplants to ice machines, from fitness bracelets to fish tanks: It's all fair game.
+
+                                Hacking around with IoT stuff is a lot of fun, but the learning curve can be intimidating, and early validation of your idea is critical. You need to be confident that your plan is going to work before you print 1000 circuit boards.
+
+                                In this talk Jenny Tong, a Developer Advocate on Google Cloud Platform, will show you how node.js, Firebase, and development boards come together to make your IoT project real. We'll build the hello world of electronics on stage, and then divert our attention to a worthy target: connecting children's tabletop games to the Internet."
   subtype: Talk
   speakers: [2]
   complexity: "Advanced"
