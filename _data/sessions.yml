@@ -14,6 +14,41 @@
   subtype: keynote
 
 -
+  id: 201
+  title: "Intro"
+  description: ""
+  subtype: keynote
+
+-
+  id: 202
+  title: "How Google can help your career in Tech"
+  description: "Walkthrough of Google resources for developers, like GDGs, GDEs, Udacity, and Launchpad."
+  subtype: presentation
+  speakers: [20, 21]
+
+-
+  id: 203
+  title: ""
+  description: ""
+  subtype: presentation
+
+-
+  id: 204
+  title: "From Hadoop to BigQuery"
+  description: "In this session we search for the holy grail of near real-time queries and analytics over big data. We start from Hadoop and related technologies and arrive in the end at Google BigQuery, which fulfills our criteria. SQL flavor queries over big data have never been so easy! We'll also touch Google Genomics a bit."
+  subtype: presentation
+  speakers: [10]
+
+-
+  id: 205
+  title: "Polymer"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+
+
+
+-
   id: 001
   title: "HTML/CSS"
   description: "We will cover the basics of HTML/CSS"
