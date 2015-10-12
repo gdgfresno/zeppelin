@@ -35,7 +35,7 @@
 -
   id: 204
   title: "From Hadoop to BigQuery"
-  description: "In this session we search for the holy grail of near real-time queries and analytics over big data. We start from Hadoop and related technologies and arrive in the end at Google BigQuery, which fulfills our criteria. SQL flavor queries over big data have never been so easy! We'll also touch Google Genomics a bit."
+  description: "We will search for the holy grail of near real-time queries and analytics over big data. We will start from Hadoop and related technologies and arrive in the end at Google BigQuery. SQL flavor queries over big data have never been so easy! We'll also touch Google Genomics a bit."
   subtype: presentation
   speakers: [10]
 
