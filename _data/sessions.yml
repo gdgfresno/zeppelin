@@ -42,11 +42,9 @@
 -
   id: 205
   title: "Polymer"
-  description: ""
+  description: "Modularization is the key to create successful applications, however we never had a good solution to handle it in the client-side. In this talk, we'll see how Web Components -- this new concept formed by four new specifications (Templates, Shadow DOM, Custom Elements, HTML Imports) -- can revolutionize the way we develop for the web and how frameworks like Polymer from Google and X-Tag from Mozilla can it make it even easier to work with this new technology."
   subtype: presentation
   speakers: [3]
-
-
 
 -
   id: 001
@@ -89,8 +87,8 @@
 
 -
   id: 010
-  title: "Polymer Element Creation"
-  description: "More to Come"
+  title: "Polymer Codelabs: creating elements, working with Firebase, and more"
+  description: "Google codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application"
   subtype: Code Lab
   speakers: [4, 7]
   complexity: "Advanced"
@@ -98,9 +96,7 @@
 -
   id: 011
   title: "Google Cloud Spin"
-  description: "Sandeep will walk through features of the Google Cloud Platform used in building the Google Cloud Spin demo shown at recent #GCPNext events. The demo uses an orchestrated set of smartphones to capture multi-angle views of the same event, upload them to the cloud and have them stitched together in real time to create a  single 180-degree snapshot of that moment.
-
-                Demo: They will have a live demo setup that folks can stop by and participate in."
+  description: "Sandeep will walk through features of the Google Cloud Platform used in building the Google Cloud Spin demo shown at recent #GCPNext events. The demo uses an orchestrated set of smartphones to capture multi-angle views of the same event, upload them to the cloud and have them stitched together in real time to create a  single 180-degree snapshot of that moment. Demo: They will have a live demo setup that folks can stop by and participate in."
   subtype: Tak
   speakers: [1]
   complexity: "Advanced"
@@ -122,11 +118,7 @@
 -
   id: 014
   title: "Hacking IoT Stuff"
-  description: "Everyone seems to be talking about the Internet of Things. From houseplants to ice machines, from fitness bracelets to fish tanks: It's all fair game.
-
-                                Hacking around with IoT stuff is a lot of fun, but the learning curve can be intimidating, and early validation of your idea is critical. You need to be confident that your plan is going to work before you print 1000 circuit boards.
-
-                                In this talk Jenny Tong, a Developer Advocate on Google Cloud Platform, will show you how node.js, Firebase, and development boards come together to make your IoT project real. We'll build the hello world of electronics on stage, and then divert our attention to a worthy target: connecting children's tabletop games to the Internet."
+  description: "Everyone seems to be talking about the Internet of Things. From houseplants to ice machines, from fitness bracelets to fish tanks: It's all fair game. Hacking around with IoT stuff is a lot of fun, but the learning curve can be intimidating, and early validation of your idea is critical. You need to be confident that your plan is going to work before you print 1000 circuit boards. In this talk Jenny Tong, a Developer Advocate on Google Cloud Platform, will show you how node.js, Firebase, and development boards come together to make your IoT project real. We'll build the hello world of electronics on stage, and then divert our attention to a worthy target: connecting children's tabletop games to the Internet."
   subtype: Talk
   speakers: [2]
   complexity: "Advanced"
