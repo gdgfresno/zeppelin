@@ -204,7 +204,7 @@
   company: "Level Up Club"
   title: "Computer Science Student"
   bio: "Karl is currently in his first year at Fresno City College studying Computer Science. He has basic knowledge in C++ Programming and is currently studying Java. His background in HTML5 & CSS3 started in high school, studying at the start of the first Geekwise Academy Program. "
-  thumbnailUrl: karl_pic.jpg
+  thumbnailUrl: karl_pic_revised.jpg
   rockstar:
 #-
 #  id: 17
@@ -259,7 +259,7 @@
   company: "Google"
   title: "Program Manager for Google Developer Relations"
   bio: "Alignment: Chaotic Neutral"
-  thumbnailUrl: liz.jpg
+  thumbnailUrl: liz_revised.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+ElizabethPadillaLiz"}
